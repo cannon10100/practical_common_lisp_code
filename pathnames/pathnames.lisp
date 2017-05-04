@@ -1,4 +1,4 @@
-(in-package :com.gigamonkeys.pathnames)
+(in-package :pathnames)
 
 (defun component-present-p (value)
   (and value (not (eql value :unspecific))))

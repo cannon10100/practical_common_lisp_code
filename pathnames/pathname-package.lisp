@@ -1,6 +1,6 @@
 (in-package :cl-user)
 
-(defpackage :com.gigamonkeys.pathnames
+(defpackage :pathnames
   (:use :common-lisp)
   (:export
     :list-directory
